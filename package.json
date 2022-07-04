@@ -25,7 +25,7 @@
     "@nuxtjs/tailwindcss": "^4.2.1",
     "eslint": "^8.14.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
     "netlify-cli": "^10.1.0",
     "nuxt-purgecss": "^1.0.0",
     "postcss": "^8.4.13",
